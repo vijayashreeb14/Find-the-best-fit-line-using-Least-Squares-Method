@@ -22,9 +22,6 @@ Developed by: VIJAYASHREE B
 RegisterNumber:  212223040238
 ~~~
 
-## KAVINRAJA.D
-## 212222240047
-
 import numpy as np
 import matplotlib.pyplot as plt
 X=np.array(eval(input()))
@@ -52,13 +49,13 @@ plt.show()
 
 Output:
 
-[Screenshot 2025-02-26 165025](https://github.com/user-attachments/assets/09163e06-2ade-4fc0-9bf2-13b1c888fd5c)
+![Screenshot 2025-02-26 165025](https://github.com/user-attachments/assets/09163e06-2ade-4fc0-9bf2-13b1c888fd5c)
 
-[Screenshot 2025-02-26 165312](https://github.com/user-attachments/assets/77ee3707-b407-4a79-a31b-cf7142d4c69b)
+![Screenshot 2025-02-26 165312](https://github.com/user-attachments/assets/77ee3707-b407-4a79-a31b-cf7142d4c69b)
 
-[Screenshot 2025-02-26 165137](https://github.com/user-attachments/assets/60b8224a-c5fd-441b-a59b-74deaea1d9cc)
+![Screenshot 2025-02-26 165137](https://github.com/user-attachments/assets/60b8224a-c5fd-441b-a59b-74deaea1d9cc)
 
-[Screenshot 2025-02-26 165204](https://github.com/user-attachments/assets/e73fe6f5-1567-4638-9c50-6087b78e0e32)
+![Screenshot 2025-02-26 165204](https://github.com/user-attachments/assets/e73fe6f5-1567-4638-9c50-6087b78e0e32)
 
 
 
