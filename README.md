@@ -69,15 +69,13 @@ plt.show()
 
 ## Output:
 
-![image](https://github.com/user-attachments/assets/8bf38747-375f-463d-a02f-032e22d2b321)
+![Screenshot 2025-02-26 165025](https://github.com/user-attachments/assets/09163e06-2ade-4fc0-9bf2-13b1c888fd5c)
 
-![image](https://github.com/user-attachments/assets/a98a9372-15c5-4f74-ad86-57b6fd00ac54)
+![Screenshot 2025-02-26 165312](https://github.com/user-attachments/assets/77ee3707-b407-4a79-a31b-cf7142d4c69b)
 
+![Screenshot 2025-02-26 165137](https://github.com/user-attachments/assets/60b8224a-c5fd-441b-a59b-74deaea1d9cc)
 
-![image](https://github.com/user-attachments/assets/f09a7bc7-8d3c-4a4a-b33b-16d2641dfbea)
-
-![image](https://github.com/user-attachments/assets/c466ecf1-5bf0-4e43-9704-e9aea0447306)
-
+![Screenshot 2025-02-26 165204](https://github.com/user-attachments/assets/e73fe6f5-1567-4638-9c50-6087b78e0e32)
 
 
 
